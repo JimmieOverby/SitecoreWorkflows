@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "extended mail action", "extended mail action.csproj", "{7E442EB4-1800-4C6A-8CF5-815344450111}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7E442EB4-1800-4C6A-8CF5-815344450111}.Debug.ActiveCfg = Debug|.NET
+		{7E442EB4-1800-4C6A-8CF5-815344450111}.Debug.Build.0 = Debug|.NET
+		{7E442EB4-1800-4C6A-8CF5-815344450111}.Release.ActiveCfg = Release|.NET
+		{7E442EB4-1800-4C6A-8CF5-815344450111}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

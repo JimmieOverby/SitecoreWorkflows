@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitForLanguage", "WaitForLanguage.csproj", "{8544C319-F450-42C3-86E7-E26E8AFB0877}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{8544C319-F450-42C3-86E7-E26E8AFB0877}.Debug.ActiveCfg = Debug|.NET
+		{8544C319-F450-42C3-86E7-E26E8AFB0877}.Debug.Build.0 = Debug|.NET
+		{8544C319-F450-42C3-86E7-E26E8AFB0877}.Release.ActiveCfg = Release|.NET
+		{8544C319-F450-42C3-86E7-E26E8AFB0877}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetStateByLanguage", "SetStateByLanguage.csproj", "{92ACA079-AFF1-4411-AFC8-623FCD75B796}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteCommand", "..\ExecuteCommand\ExecuteCommand.csproj", "{774418E2-4DE6-43E3-94BE-4A4A23C48553}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{92ACA079-AFF1-4411-AFC8-623FCD75B796}.Debug.ActiveCfg = Debug|.NET
+		{92ACA079-AFF1-4411-AFC8-623FCD75B796}.Debug.Build.0 = Debug|.NET
+		{92ACA079-AFF1-4411-AFC8-623FCD75B796}.Release.ActiveCfg = Release|.NET
+		{92ACA079-AFF1-4411-AFC8-623FCD75B796}.Release.Build.0 = Release|.NET
+		{774418E2-4DE6-43E3-94BE-4A4A23C48553}.Debug.ActiveCfg = Debug|.NET
+		{774418E2-4DE6-43E3-94BE-4A4A23C48553}.Debug.Build.0 = Debug|.NET
+		{774418E2-4DE6-43E3-94BE-4A4A23C48553}.Release.ActiveCfg = Release|.NET
+		{774418E2-4DE6-43E3-94BE-4A4A23C48553}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

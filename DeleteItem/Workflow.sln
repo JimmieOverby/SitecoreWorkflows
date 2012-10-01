@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow", "Workflow.csproj", "{EC635B9D-3726-4FB0-8134-7BE7E50CF0A4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EC635B9D-3726-4FB0-8134-7BE7E50CF0A4}.Debug.ActiveCfg = Debug|.NET
+		{EC635B9D-3726-4FB0-8134-7BE7E50CF0A4}.Debug.Build.0 = Debug|.NET
+		{EC635B9D-3726-4FB0-8134-7BE7E50CF0A4}.Release.ActiveCfg = Release|.NET
+		{EC635B9D-3726-4FB0-8134-7BE7E50CF0A4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
